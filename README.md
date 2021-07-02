@@ -14,8 +14,6 @@
   <a href="#how-to-setup">How To Setup</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
 ## Key Features
 
 * User verification - Let a user verify on entering the server
