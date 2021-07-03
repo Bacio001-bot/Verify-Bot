@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h1 align="Verification bot by Bacio001"></h1>
+<h1 align="center">Verification bot by Bacio001</h1>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
